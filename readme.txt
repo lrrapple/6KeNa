@@ -1,2 +1,1 @@
-happy new year!!!
-happy
+stash pull之前先保存本地仓代码做的修改
